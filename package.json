@@ -2,6 +2,9 @@
   "name": "react",
   "version": "1.0.0",
   "description": "React example starter project",
+  "engines": {
+    "node": "14.15.4"
+  }
   "keywords": [
     "react",
     "starter"
