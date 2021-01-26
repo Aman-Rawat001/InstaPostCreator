@@ -2,9 +2,6 @@
   "name": "react",
   "version": "1.0.0",
   "description": "React example starter project",
-  "engines": {
-    "node": "14.15.4"
-  }
   "keywords": [
     "react",
     "starter"
@@ -30,5 +27,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+   "engines": {
+    "node": "14.15.4"
+  }
 }
